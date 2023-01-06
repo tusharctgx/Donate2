@@ -1,0 +1,277 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+
+.Container{
+   background-color: darkgray;} 
+
+
+.head1{
+  background-image: url(images/donation13.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 669px;
+  width: 1440px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+
+  
+}
+
+.head2{
+  text-align: center;
+  color: white;
+  font-size: 60px;
+  padding-bottom: 50px;
+}
+
+.head3{
+  position: absolute;
+  width: 691px;
+  height: 56px;
+  left: 375px;
+  top: 352px;
+  padding-top: 40px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  
+  text-align: center;
+  
+  color: #FFFFFF;
+}
+
+.btn_primary{
+  display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 12px;
+gap: 8px;
+margin-top: 20px;
+font-size: large;
+font-weight:300 ;
+color: white;
+position: absolute;
+width: 160px;
+height: 56px;
+left: 640px;
+top: 438px;
+
+background: #FF5959;
+border-radius: 5px;
+border: none;
+}
+
+
+
+
+
+.main{
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  color: gray;
+}
+.Donate_Today{
+  overflow: hidden;
+}
+
+.Donate_Title{
+  color: black;
+  text-align: center;
+  padding-top: 35px;
+}
+
+.Donate_Desc{
+  color: gray;
+  width: 700px;
+  font-family: 'Poppins';
+  margin: 20px auto;
+  font-size: 20px;
+}
+
+.Number{
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+}
+
+.active{
+  color: tomato;
+  border: 3px solid tomato;
+  padding: 20px 20px;
+  background-color: #FFEEEE;
+  border-radius: 5px;
+}
+
+.om{
+  margin-top: 30px;
+  text-align: center;
+}
+
+hr{
+  width: 600px;
+  margin: 10px auto;
+}
+
+.primary_btn {
+  padding: 16px 20px;
+  background: #ff5959;
+  border-radius: 5px;
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 20px;
+  border: none;
+}
+ .btn1{
+  text-align: center;
+ }
+
+
+
+ .Donate_Box{
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  margin: 60px 70px;
+  /* background-color: red; */
+}
+.Box{
+  border: 1px solid slateblue;
+  width: 350px;
+  height: 300px;
+  text-align: start;
+  padding: 20px;
+}
+.box_Image{
+  margin-top: 50px;
+}
+.box_Title{
+  margin: 20px 0;
+}
+.box_Body{
+  tab-size: 22px;
+  line-height: 1.6rem;
+}
+.b1{
+  background-color: #EDF5F6;
+}
+.b2{
+  background-color: #FFEEEE;
+}
+.b3{
+  background-color: #FFF4D6;
+}
+
+
+
+
+.Description{
+  width: 90%;
+  margin: 0 auto;
+  /* background-color: yellow; */
+}
+.First{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: left;
+  gap: 50px;
+}
+.Second{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: left;
+  gap: 50px;
+}
+.Left{
+ 
+}
+.Desc_Title{
+  font-weight: bold;
+  color: black;
+  font-size: 45px;
+}
+.Desc_des{
+  font-size: 20px;
+  line-height: 1.5rem;
+  padding-bottom: 20px;
+  padding-top: 15px;
+}
+.Right{
+
+}
+.pic{
+  width: 450px;
+  height: 450px;
+}
+
+.MyUpdate{
+  margin-top: 100px;
+}
+.updatetitle{
+  margin: 20px 0;
+  display: flex;
+  justify-content: center;
+}
+.updat{
+  text-align: center;
+}
+
+.anotherbox{
+  margin: 70px auto;
+  width: 80%;
+  height: 300px;
+  background-color: #FFF4D6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.em{
+  padding: 14px 15px;
+  height: 22px;
+  width: 230px;
+  z-index: 1;
+  border: 0;
+  background-color: #FFFFFF;
+}
+.sb{
+  margin-top: -3px;
+  margin-left: -5px;
+}
+
+.footer{
+  height: 200px;
+  width: 80%;
+  background-size: cover;
+  margin: 0 auto;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+ 
+}
+.bh{
+  font-family: 'Dancing Script', cursive;
+  color: tomato;
+  font-weight: bold;
+  font-size: 35px;
+}
+.ig{
+  margin-top: 30px;
+  color: white;
+}
